@@ -1,0 +1,1 @@
+# TASK-JS-OBJECTS-2
