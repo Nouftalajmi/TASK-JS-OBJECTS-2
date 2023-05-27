@@ -15,7 +15,9 @@ The returned array should have the following structure:
 ================================================================================
 */
 function getAvailableBooks(books) {
-  // Your code here
+  return books.map((book) => {
+    return book.title;
+  });
 }
 
 console.log(getAvailableBooks(books));
